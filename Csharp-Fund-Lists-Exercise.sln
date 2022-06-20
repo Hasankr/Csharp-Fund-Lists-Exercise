@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cards Game", "06. Cards
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Append Arrays", "07. Append Arrays\07. Append Arrays.csproj", "{83E3A252-2998-4D5D-8356-D0EFC9E985DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Anonymous Threat", "08. Anonymous Threat\08. Anonymous Threat.csproj", "{E481F940-1B2D-4EEB-A586-19E441DE13C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{83E3A252-2998-4D5D-8356-D0EFC9E985DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83E3A252-2998-4D5D-8356-D0EFC9E985DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83E3A252-2998-4D5D-8356-D0EFC9E985DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E481F940-1B2D-4EEB-A586-19E441DE13C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E481F940-1B2D-4EEB-A586-19E441DE13C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E481F940-1B2D-4EEB-A586-19E441DE13C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E481F940-1B2D-4EEB-A586-19E441DE13C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
